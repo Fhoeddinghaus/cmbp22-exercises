@@ -7,3 +7,6 @@
 [submodule "sheet_3/latex"]
 	path = sheet_3/latex
 	url = https://git.overleaf.com/628278ed8853f6ce46b0d239
+[submodule "sheet_4/latex"]
+	path = sheet_4/latex
+	url = https://git.overleaf.com/6288f58aff9d83c8a366debd
